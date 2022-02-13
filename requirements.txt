@@ -3,5 +3,4 @@ numpy==1.20.3
 Pillow==9.0.1
 scikit_image==0.18.3
 gunicorn
-opencv-python
 opencv-python-headless>=4.2.0.32
