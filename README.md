@@ -21,17 +21,17 @@ Project is created with:
 
 ## Setup
 To run this project : 
-Step 1: create the copy of the project.
-Step 2: open commend prompt and change your current path to folder where you can find  ‘app.py’ file
-Step 3: create environment by command given below-
+* Step 1: create the copy of the project.
+* Step 2: open commend prompt and change your current path to folder where you can find  ‘app.py’ file
+* Step 3: create environment by command given below-
 Conda create -name < environment  name>
-Step 4: Active environment by command given below-
+* Step 4: Active environment by command given below-
 Conda active -name < environment  name>
-Step 5: use command below to install required dependencies – 
+* Step 5: use command below to install required dependencies – 
 Python -m pip install -r requirements.txt
-Step 6:Run application by command: python app.py
-Step 7: You will get URL copy paste in browser
-Step 8: you have images data folder where you can get image to test
+* Step 6:Run application by command: python app.py
+* Step 7: You will get URL copy paste in browser
+* Step 8: you have images data folder where you can get image to test
 
 ## 🔗 Links
 
